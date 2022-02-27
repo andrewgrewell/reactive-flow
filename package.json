@@ -1,0 +1,30 @@
+{
+  "name": "reactive-flow",
+  "version": "1.0.0",
+  "description": "manage flows an a reactive way",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgrewell/reactive-flow.git"
+  },
+  "keywords": [
+    "rxjs",
+    "reactive"
+  ],
+  "author": "Andrew Grewell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewgrewell/reactive-flow/issues"
+  },
+  "homepage": "https://github.com/andrewgrewell/reactive-flow#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "rxjs": "^7.5.4"
+  }
+}
